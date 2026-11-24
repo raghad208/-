@@ -1,0 +1,6 @@
+{
+  "name": "بيتي النظيف",
+  "description": "لعبة تنظيف المنزل بمراحل متعددة، أدوات قابلة للتطوير، وتحدي جمع المال.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
